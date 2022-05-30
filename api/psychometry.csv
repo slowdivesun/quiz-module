@@ -1,19 +1,19 @@
-sectionNum,courseId,sectionName,description,quizFile,choose,arrangement
-1,0,Personality Test,"The Big Five personality test measures the five core personality factors, i.e., Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.",psytest1.json,50,ordered
-2,0,Interest Test,The interest test helps to understand what suits you and your personality.,psytest2.json,48,ordered
-3,0,Quality of Life,Know your perception of the position in life in the context of the culture and value systems in which you are living.,psytest3.json,26,ordered
-4,0,Clerical Ability,The test helps to examine how well someone performs on the job by assessing multiple skills in one setting.,psytest4.json,15,random
-5,0,Verbal Ability,The test is designed to assess a candidate's knowledge of English as well as their reasoning ability.,psytest5.json,15,random
-6,0,Logical Reasoning,A logical reasoning test measures your ability to think logically.,psytest6.json,10,random
-7,0,Spatial Reasoning,A spatial reasoning test is designed to assess a candidate's capacity to manipulate 2D and 3D objects.,psytest7.json,10,random
-8,0,Situation Reaction,The test is designed to judge whether a candidate possess guts and capacity to tackle odd situations with an alert mind.,psytest8.json,10,random
-9,0,Numerical Reasoning,Numerical Reasoning Tests are used by employers to assess your reasoning ability when it comes to applying for a job.,psytest9.json,10,random
-1,1,Personality Test,"The Big Five personality test measures the five core personality factors, i.e., Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.",psytest1.json,50,ordered
-2,1,Interest Test,The interest test helps to understand what suits you and your personality.,psytest2.json,48,ordered
-3,1,Quality of Life,Know your perception of the position in life in the context of the culture and value systems in which you are living.,psytest3.json,26,ordered
-4,1,Clerical Ability,The test helps to examine how well someone performs on the job by assessing multiple skills in one setting.,psytest4.json,15,random
-5,1,Verbal Ability,The test is designed to assess a candidate's knowledge of English as well as their reasoning ability.,psytest5.json,15,random
-6,1,Logical Reasoning,A logical reasoning test measures your ability to think logically.,psytest6.json,10,random
-7,1,Spatial Reasoning,A spatial reasoning test is designed to assess a candidate's capacity to manipulate 2D and 3D objects.,psytest7.json,10,random
-8,1,Situation Reaction,The test is designed to judge whether a candidate possess guts and capacity to tackle odd situations with an alert mind.,psytest8.json,10,random
-9,1,Numerical Reasoning,Numerical Reasoning Tests are used by employers to assess your reasoning ability when it comes to applying for a job.,psytest9.json,10,random
+courseId,sectionNum,sectionName,description,quizFile,choose,arrangement,time
+0,1,Personality Test,"The Big Five personality test measures the five core personality factors, i.e., Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.",psytest1.json,50,ordered,25
+0,2,Interest Test,The interest test helps to understand what suits you and your personality.,psytest2.json,48,ordered,25
+0,3,Quality of Life,Know your perception of the position in life in the context of the culture and value systems in which you are living.,psytest3.json,26,ordered,15
+0,4,Clerical Ability,The test helps to examine how well someone performs on the job by assessing multiple skills in one setting.,psytest4.json,15,random,15
+0,5,Verbal Ability,The test is designed to assess a candidate's knowledge of English as well as their reasoning ability.,psytest5.json,15,random,15
+0,6,Logical Reasoning,A logical reasoning test measures your ability to think logically.,psytest6.json,10,random,15
+0,7,Spatial Reasoning,A spatial reasoning test is designed to assess a candidate's capacity to manipulate 2D and 3D objects.,psytest7.json,10,random,15
+0,8,Situation Reaction,The test is designed to judge whether a candidate possess guts and capacity to tackle odd situations with an alert mind.,psytest8.json,10,random,15
+0,9,Numerical Reasoning,Numerical Reasoning Tests are used by employers to assess your reasoning ability when it comes to applying for a job.,psytest9.json,10,random,15
+1,1,Personality Test,"The Big Five personality test measures the five core personality factors, i.e., Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.",psytest1.json,50,ordered,25
+1,2,Interest Test,The interest test helps to understand what suits you and your personality.,psytest2.json,48,ordered,25
+1,3,Quality of Life,Know your perception of the position in life in the context of the culture and value systems in which you are living.,psytest3.json,26,ordered,15
+1,4,Clerical Ability,The test helps to examine how well someone performs on the job by assessing multiple skills in one setting.,psytest4.json,15,random,15
+1,5,Verbal Ability,The test is designed to assess a candidate's knowledge of English as well as their reasoning ability.,psytest5.json,15,random,15
+1,6,Logical Reasoning,A logical reasoning test measures your ability to think logically.,psytest6.json,10,random,15
+1,7,Spatial Reasoning,A spatial reasoning test is designed to assess a candidate's capacity to manipulate 2D and 3D objects.,psytest7.json,10,random,15
+1,8,Situation Reaction,The test is designed to judge whether a candidate possess guts and capacity to tackle odd situations with an alert mind.,psytest8.json,10,random,15
+1,9,Numerical Reasoning,Numerical Reasoning Tests are used by employers to assess your reasoning ability when it comes to applying for a job.,psytest9.json,10,random,15

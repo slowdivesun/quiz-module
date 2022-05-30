@@ -14,7 +14,7 @@
         </button>
         <button
           class="controlButton"
-          :disabled="currentQues === $store.state.selectedQuiz.test.length - 1"
+          :disabled="currentQues === $store.state.selectedQuiz.length - 1"
           @click="handleNext()"
         >
           Next
@@ -23,9 +23,9 @@
       <QuestionItem
         @selected="handleSelect"
         :selectedOption="chosenArray[currentQues]"
-        :question="$store.state.selectedQuiz.test[currentQues].question"
+        :question="$store.state.selectedQuiz[currentQues].question"
         :number="currentQues + 1"
-        :options="$store.state.selectedQuiz.test[currentQues].options"
+        :options="$store.state.selectedQuiz[currentQues].options"
       />
     </div>
   </div>
@@ -49,8 +49,7 @@ export default {
   },
   methods: {
     initializechosenArray() {
-      console.log(this.$store.state.selectedQuiz);
-      for (let i = 0; i < this.test.questions.length; i++) {
+      for (let i = 0; i < this.$store.state.selectedQuiz.length; i++) {
         this.chosenArray.push(null);
       }
     },
